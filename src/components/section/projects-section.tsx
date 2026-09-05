@@ -46,7 +46,7 @@ export default function ProjectsSection() {
                                 dates={project.dates}
                                 tags={project.technologies}
                                 image={project.image}
-                                video={project.video}
+                                video={(project as { video?: string }).video}
                                 links={project.links}
                             />
                         </BlurFade>
@@ -56,4 +56,3 @@ export default function ProjectsSection() {
         </section>
     );
 }
-
