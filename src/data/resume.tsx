@@ -1,4 +1,5 @@
 import { Icons } from "@/components/icons";
+import { Java } from "@/components/ui/svgs/java";
 import { HomeIcon, NotebookIcon } from "lucide-react";
 import type { SVGProps } from "react";
 
@@ -28,7 +29,7 @@ export const DATA = {
     "Computer Science undergraduate with expertise in Full-Stack Development, Data Structures & Algorithms, and scalable web applications. Proficient in C++, JavaScript, React.js, Node.js, Express.js, and MongoDB with experience in developing responsive applications and efficient backend systems.",
   avatarUrl: "/Shubham.png",
   skills: [
-    { name: "Java", icon: skillIcon("java/ED8B00") },
+    { name: "Java", icon: Java },
     { name: "C++", icon: skillIcon("cplusplus/00599C") },
     { name: "C", icon: skillIcon("c/A8B9CC") },
     // { name: "Dart", icon: skillIcon("dart/0175C2") },
