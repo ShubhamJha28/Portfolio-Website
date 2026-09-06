@@ -153,7 +153,7 @@ export const DATA = {
       school: "Maharaja Agrasen Institute of Technology",
       href: "https://mait.ac.in/",
       degree: "Bachelor's of Technology in Computer Science - CGPA: 7.5",
-      logoUrl: "/mait.png",
+      logoUrl: "/Mait.png",
       start: "2023",
       end: "2027",
     },
