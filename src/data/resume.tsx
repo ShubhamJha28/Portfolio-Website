@@ -163,6 +163,38 @@ export const DATA = {
   ],
   projects: [
     {
+      title: "ScamShield AI",
+      href: "https://scam-shield-pink.vercel.app/",
+      dates: "Sept 2026 - Present",
+      active: true,
+      description:
+        "Developed a full-stack food delivery website using React.js and RESTful APIs, enabling users to browse restaurants, explore menus, manage carts, and place orders through a responsive and user-friendly interface. Implemented authentication, database operations, and reusable components for efficient and scalable performance.",
+      technologies: [
+        "React.js",
+        "TypeScript",
+        "JavaScript",
+        "Vite 7",
+        "Redux Toolkit",
+        "Tailwind CSS",
+        "HTML5",
+        "RESTful APIs",
+        
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "https://scam-shield-pink.vercel.app/",
+          icon: <Icons.globe className="size-3" />,
+        },
+        {
+          type: "Source",
+          href: "https://github.com/ShubhamJha28/Scam-Shield",
+          icon: <Icons.github className="size-3" />,
+        },
+      ],
+      image: "/FoodDelivery.png",
+    },
+    {
       title: "Food Delivery Website",
       href: "https://food-delivery-app-seven-rosy.vercel.app/",
       dates: "Jan 2024 - Feb 2024",
