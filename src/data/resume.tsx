@@ -165,19 +165,24 @@ export const DATA = {
     {
       title: "ScamShield AI",
       href: "https://scam-shield-pink.vercel.app/",
-      dates: "Sept 2026 - Present",
+      dates: "",
       active: true,
       description:
         "ScamShield is an AI-powered cyber-safety platform designed to protect Indian citizens from digital fraud such as SMS phishing, fake KYC notices, and UPI payment scams. It uses a hybrid detection engine that pairs deterministic rule-based checks (typosquatted domains, suspicious TLDs, credential-prompt patterns) with a semantic AI layer that identifies psychological manipulation tactics, impersonation attempts, and multilingual Hinglish scam intent. The platform includes a scam analyzer, threat intelligence dashboard, and evidence locker, and aligns its workflows with official reporting channels like India's 1930 helpline and I4C cybercrime registry.",
       technologies: [
-        "React.js",
-        "TypeScript",
-        "JavaScript",
-        "Vite 7",
-        "Redux Toolkit",
+        "Next.js",
+        "Docker",
         "Tailwind CSS",
-        "HTML5",
-        "RESTful APIs",
+        "Framer Motion",
+        "Teseract.js",
+        "jsQr",
+        "jsPDF",
+        "Gemini API",
+        "Python",
+        "PostgreSQL",
+        // "OpenAI API",
+        // "Pinecone Vector DB",
+        // "MongoDB",
         
       ],
       links: [
@@ -197,7 +202,7 @@ export const DATA = {
     {
       title: "Food Delivery Website",
       href: "https://food-delivery-app-seven-rosy.vercel.app/",
-      dates: "Jan 2024 - Feb 2024",
+      dates: "",
       active: true,
       description:
         "Developed a full-stack food delivery website using React.js and RESTful APIs, enabling users to browse restaurants, explore menus, manage carts, and place orders through a responsive and user-friendly interface. Implemented authentication, database operations, and reusable components for efficient and scalable performance.",
@@ -257,7 +262,7 @@ export const DATA = {
     {
       title: "Monster Ultra Website",
       href: "https://monster-ultra-website.vercel.app/",
-      dates: "April 2023 - September 2023",
+      dates: "",
       active: true,
       description:
         "Designed and developed an immersive, scroll-driven product website for Monster Ultra, featuring interactive animations, cinematic visuals, responsive layouts, and engaging product storytelling. Built a modern, high-performance UI focused on smooth user interactions, visual branding, and an engaging Gen-Z experience.",
@@ -287,7 +292,7 @@ export const DATA = {
     {
       title: "Wandris App",
       href: "https://www.figma.com/design/e62IaxHGR0uVBBw8rbu11X/Wandris?node-id=4-2&p=f",
-      dates: "April 2023 - March 2024",
+      dates: "",
       active: true,
       description:
         "Designed the complete UI/UX for Wandris, a Smart India Hackathon 2025 solution focused on improving tourist safety and emergency response. Created wireframes, high-fidelity interfaces, design systems, and interactive prototypes in Figma, with intuitive user journeys for SOS assistance, safety heatmaps, location-based alerts, digital identity verification, and incident reporting.",
