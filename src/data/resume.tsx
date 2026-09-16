@@ -168,7 +168,7 @@ export const DATA = {
       dates: "Sept 2026 - Present",
       active: true,
       description:
-        "Developed a full-stack food delivery website using React.js and RESTful APIs, enabling users to browse restaurants, explore menus, manage carts, and place orders through a responsive and user-friendly interface. Implemented authentication, database operations, and reusable components for efficient and scalable performance.",
+        "ScamShield is an AI-powered cyber-safety platform designed to protect Indian citizens from digital fraud such as SMS phishing, fake KYC notices, and UPI payment scams. It uses a hybrid detection engine that pairs deterministic rule-based checks (typosquatted domains, suspicious TLDs, credential-prompt patterns) with a semantic AI layer that identifies psychological manipulation tactics, impersonation attempts, and multilingual Hinglish scam intent. The platform includes a scam analyzer, threat intelligence dashboard, and evidence locker, and aligns its workflows with official reporting channels like India's 1930 helpline and I4C cybercrime registry.",
       technologies: [
         "React.js",
         "TypeScript",
@@ -192,7 +192,7 @@ export const DATA = {
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "/FoodDelivery.png",
+      image: "/ScamShield.png",
     },
     {
       title: "Food Delivery Website",
